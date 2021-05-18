@@ -1,1 +1,4 @@
-# kingtong
+- 👋 Hi, I’m @kingtong
+- 👀 I’m interested in backend programming
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Rust projects
